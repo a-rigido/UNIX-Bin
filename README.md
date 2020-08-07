@@ -8,6 +8,7 @@ Therefore, with the use of these scripts in your environment, you will be able t
 
 
 ## Features:
+
 ### remove.sh
 * Multi-file Removal
     * The user can remove as many files as they want to with a single command.
@@ -25,10 +26,12 @@ Therefore, with the use of these scripts in your environment, you will be able t
     * The user will be able to return their file to its original state before removal.
     * The user will be able to use recursive restoration if necessary to rebuild deleted directories.
 
-### Implementation
+
+## Implementation
 To implement this scripts into your system, simply add the scripts to and give them a desired alias so that you can call them with ease.
 
-#### Final Remarks
+
+## Final Remarks
 
 Feel free to use any code written here as you see fit. Thanks for stopping by.
 

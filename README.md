@@ -7,8 +7,8 @@ Traditionally the rm command is used to delete files but once the file is remove
 Therefore, with the use of these scripts in your environment, you will be able to have the major functions of the remove command without worry of accidental deletion.
 
 
-### Features:
-###### remove.sh
+## Features:
+### remove.sh
 * Multi-file Removal
     * The user can remove as many files as they want to with a single command.
 * Interactive Mode:
@@ -20,7 +20,7 @@ Therefore, with the use of these scripts in your environment, you will be able t
 * Combination Modes:
     * The user may opt to combine any of the options in any order to satisfy their removal needs.
 
-###### restore.sh
+### restore.sh
 * Full Restoration Ability
     * The user will be able to return their file to its original state before removal.
     * The user will be able to use recursive restoration if necessary to rebuild deleted directories.
